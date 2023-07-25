@@ -1,2 +1,3 @@
-# atomich.dev
-Landing page for www.atomich.dev
+## My site
+
+Repository for my landing page site
